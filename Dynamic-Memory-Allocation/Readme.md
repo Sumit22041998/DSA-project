@@ -60,28 +60,8 @@ Reverses the linked list by changing the links between the nodes.
 5. A success message is displayed.
 6. The menu repeats until the user selects Exit.
 
-## Sample Output
-
-```
-========== Linked List Menu ==========
-1. Append Node
-2. Display Linked List
-3. Insert at Beginning
-4. Search Element
-5. Delete Node
-6. Reverse Linked List
-0. Exit
-
-Enter Your Choice : 1
-Enter Value : 10
-
-Node Added Successfully.
-
-Enter Your Choice : 2
-
-Linked List : 10 -> NULL
-```
-
 ## Conclusion
 
 This project helps in understanding Dynamic Memory Allocation using Linked List. It demonstrates how to create, insert, search, delete, display, and reverse nodes dynamically using C++.
+
+Project explination Video [ Watch Explanation Video ] (https://drive.google.com/file/d/1nq9Z6FgqTWLJN5Lmr6zE_k5keFGCtgi-/view?usp=sharing)
